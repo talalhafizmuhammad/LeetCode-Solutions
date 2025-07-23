@@ -1,4 +1,4 @@
-
+#Linked_List
 class Solution(object):
     def deleteDuplicates(self, head):
         curr = head
